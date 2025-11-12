@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">PD3.1</string>
+    <string name="display_text">0</string>
+    <string name="button_mr">MR</string>
+    <string name="button_ms">MS</string>
+    <string name="button_m_plus">M+</string>
+    <string name="button_m_minus">M-</string>
+    <string name="button_mc">MC</string>
+    <string name="button_backspace">&lt;---</string>
+    <string name="button_seven">7</string>
+    <string name="button_dot">.</string>
+    <string name="button_equals">=</string>
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+    <string name="button_three">3</string>
+    <string name="button_two">2</string>
+    <string name="button_zero">0</string>
+    <string name="button_one">1</string>
+    <string name="button_four">4</string>
+    <string name="button_five">5</string>
+    <string name="button_ordinal">1/x</string>
+    <string name="button_six">6</string>
+    <string name="button_multiplication">*</string>
+    <string name="button_eight">8</string>
+    <string name="button_nine">9</string>
+    <string name="button_division">/</string>
+    <string name="button_percent">%</string>
+    <string name="button_ce">CE</string>
+    <string name="button_c">C</string>
+    <string name="button_plus_minus">±</string>
+    <string name="button_sqrt">√</string>
 </resources>
